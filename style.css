@@ -1,0 +1,83 @@
+header{
+    background-color:#6c3939f3;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    padding: 20px;
+    width: 1320px;
+    margin: 0%;
+}
+header img{
+padding: 50px;
+width: 50px;
+float: left;
+margin-top: -35px;
+border-radius: 50%;
+}
+.botton{
+    cursor: pointer;
+}   
+.botton:hover{
+    opacity: 0.8;
+}
+nav{
+    position: fixed;
+    width: 99%;
+    margin-top: 150px;
+}
+nav ul{
+    background-color: #c99494;
+    display: flex;
+  
+
+}
+nav a{
+    margin: 10px;
+    text-decoration:none ;
+    color: azure;
+}
+nav a:hover{
+    color: rgb(85, 56, 153);
+
+}
+
+body{
+   background-image: url(img/manos.jpg);
+   background-size:cover ;
+   background-position:center ;
+}
+body p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: aliceblue;
+}
+body h1{
+    color: white;
+}
+body h2{
+    color: white;
+}
+
+#block1{
+    background-color: #996b6b4e;
+    width: 700px;
+    height: 200px;
+}
+#block2{
+    background-color: #996b6b4e;
+    width: 700px;
+    height: 500px;
+}
+#block3{
+    background-color: #996b6b4e;
+  
+  
+    width: 700px;
+    height: 800px;
+}
+
+footer{
+    background-color:#6c3939a4;
+    padding: 40px;
+}
+   
